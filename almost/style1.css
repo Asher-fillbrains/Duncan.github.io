@@ -1,0 +1,44 @@
+h1{
+    color: blueviolet;
+    background-color: grey;
+}
+#kama{
+    color: black;
+    background-color: green;
+}
+#kuja{
+    color: red;
+    background-color: black;
+
+}
+#namama{
+    color: darkorange;
+    background-color: purple;
+    
+}
+div{
+    background-color: chocolate;
+}
+span{
+    background-color: aqua;
+}
+div1{
+    background-color: blue;
+    font-size: 33px;
+    width: ;
+}
+div2{
+    background-color: aliceblue;
+}
+div3{
+    background-color: red;
+    text-transform: uppercase;
+}
+.inner{
+    color: brown;
+}
+body{
+    background-color: rgb(100, 100, 100);
+    
+    /*skill share co0lors */
+}

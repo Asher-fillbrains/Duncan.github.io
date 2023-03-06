@@ -1,0 +1,16 @@
+
+
+*{
+    margin: 0;
+}
+.navbar {
+    background-color: blue;
+    height: 100px;
+    color: white;
+    font-size: 4rem;
+}
+.banner{
+   background-color: rgb(238, 53, 15); 
+   min-height: calc(100vh - 100px);
+}
+
